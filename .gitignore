@@ -1,2 +1,6 @@
-backup*/*
-benchar/cbenchar/build/*
+backup/*
+lib/benchar/build/*
+AGENTS.md
+.codex
+.coverage
+.vscode/*
